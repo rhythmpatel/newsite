@@ -2,9 +2,6 @@
 title: Crivox Web Solutions
 timezone: UTC
 collections:
-  _layouts:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
